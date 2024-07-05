@@ -1,0 +1,11 @@
+{
+  "name": "24-prueba-uf1288",
+  "version": "1.0.0",
+  "description": "Prueba UF1287 - Desarrollo de Componentes Software para Servicios de Comunicaciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
